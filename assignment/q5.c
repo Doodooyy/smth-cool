@@ -8,13 +8,7 @@ int main(void)
     {
         scanf("%i",&n);
         
-        while(num%n!=0)
-        { 
-            og = num;
-            
-            num+=9;
-        }
-        printf("%i",num);
+       
         
         
     }
